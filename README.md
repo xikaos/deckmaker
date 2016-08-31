@@ -1,8 +1,13 @@
-h1. Deckmaker
+## Deckmaker
 
 
-h2. Price in dollaz on TappedOut make no sense for me.
+This is my most advanced web scrapping script.
+
+
+It was made to search for the price of Magic: The Gathering cards in a provider I pass as a parameter. 
+
+
+I'm actually not so interested in Ruby at the moment to finnish it up, but I plan to finnish when suitable.
 
 
 
-This script was made for getting the price of the deck you want on TappedOut given the provider you pass as parameter.
